@@ -10,7 +10,19 @@ Transform your YouTube content into engaging blog posts effortlessly with our AI
 
 ## If you like it Please Gimme some stars ⭐️ so i can enjoy my Spent time
 
-![alt text](https://ibb.co/89jMDdw)
+Here is how you can do it !
+
+### Step 1 - Enter the Youtube URL
+
+![Steps](https://github.com/badboysm890/Youtube2Blog/raw/main/assets/steps.png "Steps")
+
+### Step 2 - Edit the content that apears in the Editor
+
+![Steps](https://github.com/badboysm890/Youtube2Blog/raw/main/assets/steps2.png "Steps")
+
+### Step 3 - Click on any Image You want to use and Finally Copy and Paste it in Medium or Any Blog app
+
+![Steps](https://github.com/badboysm890/Youtube2Blog/raw/main/assets/savedImages.png "Steps")
 
 ## Installation
 
