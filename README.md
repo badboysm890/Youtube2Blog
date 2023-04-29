@@ -8,7 +8,7 @@ Transform your YouTube content into engaging blog posts effortlessly with our AI
 - Has Suggestions over images 🌠
 - Provides a Medium Blog Like editor 📝
 
-## If you like it Please Gimme some stars ⭐️ so i can enjoy my Spent time
+## If you like it Please Gimme some stars ⭐️ so i can have some motive to do more !! 🥺
 
 Here is how you can do it !
 
