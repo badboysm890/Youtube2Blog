@@ -2,6 +2,8 @@
 
 Transform your YouTube content into engaging blog posts effortlessly with our AI-powered Youtube to Blog conversion tool. Optimize your reach and unlock the potential of SEO for your videos. Get started now! 🚀 #AI #SEO #YouTube2Blog"
 
+## If you like it Please Gimme some stars ⭐️ so i can enjoy my Spent time
+
 ## Installation
 
 1. Clone this repository:
@@ -64,7 +66,7 @@ We welcome contributions to this project. Please follow these guidelines:
 
 ## License
 
-Nothing Like that use it for you fullest and even automate it
+Nothing Like that Just Have Fun
 
 ## Todo
 
