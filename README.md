@@ -1,19 +1,19 @@
 # Project Name
 
-A brief description of what your Python project is about, its purpose, and key features.
+Transform your YouTube content into engaging blog posts effortlessly with our AI-powered Youtube to Blog conversion tool. Optimize your reach and unlock the potential of SEO for your videos. Get started now! 🚀 #AI #SEO #YouTube2Blog"
 
 ## Installation
 
 1. Clone this repository:
 
    ```
-   git clone https://github.com/YourUsername/YourProject.git
+   git clone https://github.com/badboysm890/Youtube2Blog.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd YourProject
+   cd Youtube2Blog
    ```
 
 3. Install the required packages:
@@ -26,21 +26,31 @@ A brief description of what your Python project is about, its purpose, and key f
 
 The project consists of the following files:
 
-1. `file1.py` - Explain the purpose of this file and how it helps your project.
-2. `file2.py` - Explain the purpose of this file and how it helps your project.
-3. `file3.py` - Explain the purpose of this file and how it helps your project.
-4. `fileN.py` - Explain the purpose of this file and how it helps your project.
-
-Add more files and their explanations as needed.
+1. `main.py` - This has the base code for the Youtube Download to Conversion.
+2. `restAPI.py.py` - This is the FASTAPI server which takes care of the web interface.
+3. `/WebUI` - This will be Web UI files use any web server you want preferably live server vscode.
 
 ## Usage
 
-Explain how to use your Python project, including any necessary command-line arguments or input files.
-
-For example:
+Once every thing has been installed, you have two more prerequisites those are FFMPEG and Youtube-dl
 
 ```
-python file1.py --input-file "path/to/input/file" --output "path/to/output/file"
+pip install --upgrade youtube-dl
+```
+
+For Mac
+```
+brew install ffmpeg
+```
+
+For Linux
+```
+sudo apt install ffmpeg
+```
+
+For example converting a youtube to blog:
+```
+python3 main.py --params https://youtu.be/SJeBRW1QQMA --name Test.txt
 ```
 
 ## Contributing
@@ -54,8 +64,10 @@ We welcome contributions to this project. Please follow these guidelines:
 
 ## License
 
-Briefly describe the license for your Python project (e.g., MIT License, GPL, etc.), and include a link to the full text of the license.
+Nothing Like that use it for you fullest and even automate it
 
----
+## Todo
 
-Feel free to customize this template to match the needs and requirements of your project.
+- Add Automation to have sceduled post to medium
+- Use Stable Diffusion to Blog and add more related images
+- Make it more fast and accurate paragraphs
