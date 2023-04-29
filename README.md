@@ -2,7 +2,15 @@
 
 Transform your YouTube content into engaging blog posts effortlessly with our AI-powered Youtube to Blog conversion tool. Optimize your reach and unlock the potential of SEO for your videos. Get started now! 🚀 #AI #SEO #YouTube2Blog"
 
+### Features ⭐️
+
+- Convert any Youtube or Drive Videos 📹
+- Has Suggestions over images 🌠
+- Provides a Medium Blog Like editor 📝
+
 ## If you like it Please Gimme some stars ⭐️ so i can enjoy my Spent time
+
+![alt text](https://ibb.co/89jMDdw)
 
 ## Installation
 
@@ -34,6 +42,8 @@ The project consists of the following files:
 
 ## Usage
 
+Step 1
+
 Once every thing has been installed, you have two more prerequisites those are FFMPEG and Youtube-dl
 
 ```
@@ -54,6 +64,10 @@ For example converting a youtube to blog:
 ```
 python3 main.py --params https://youtu.be/SJeBRW1QQMA --name Test.txt
 ```
+
+
+Step 2
+
 
 ## Contributing
 
